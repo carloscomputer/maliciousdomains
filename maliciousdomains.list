@@ -9,6 +9,5 @@
 #
 #
 #BEGIN BLOCKLIST#
-airbnbguest.com
-parking.bodiscdn.com
-*bodiscdn.com
+0.0.0.0 airbnbguest.com
+0.0.0.0 parking.bodiscdn.com
