@@ -1,0 +1,14 @@
+### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
+### Work in progress - will be adding new domains as I find them through a number of methods. ###
+# Author: carloscomputer
+#
+# Home: https://github.com/carloscomputer/maliciousdomains
+# Link for pi-hole: https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/maliciousdomains.list
+# 
+# Updated: 20. September 2022
+#
+#
+#BEGIN BLOCKLIST#
+airbnbguest.com
+parking.bodiscdn.com
+*bodiscdn.com
