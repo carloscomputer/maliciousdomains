@@ -11,4 +11,3 @@
 #BEGIN BLOCKLIST#
 0.0.0.0 airbnbguest.com
 0.0.0.0 parking.bodiscdn.com
-0.0.0.0 *.bodiscdn.com
