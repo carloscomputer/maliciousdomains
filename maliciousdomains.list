@@ -5,7 +5,7 @@
 # Home: https://github.com/carloscomputer/maliciousdomains
 # Link for pi-hole: https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/maliciousdomains.list
 # 
-# Updated: 1. May 2024
+# Updated: 31. October 2024
 #
 #
 #BEGIN BLOCKLIST#
@@ -13,3 +13,4 @@
 0.0.0.0 parking.bodiscdn.com
 0.0.0.0 ing-bida.com
 0.0.0.0 ats.otto.de
+0.0.0.0 lottoni.com
