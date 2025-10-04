@@ -1,2 +1,2 @@
 ! CyberPlusSecurity kombinierte DNS Blockliste
-! Stand: Sat Oct  4 00:00:00 CEST 2025
+! Stand: Sat Oct  4 08:00:00 CEST 2025
