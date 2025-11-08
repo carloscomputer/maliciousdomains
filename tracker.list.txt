@@ -1,0 +1,11 @@
+### A general ad & tracking & phishing domain blocklist for pi-hole and adguard. (https://pi-hole.net/) ###
+### Work in progress - will be adding new domains as I find them through a number of methods. ###
+# Author: carloscomputer
+#
+# Home: https://github.com/carloscomputer/traacker.list.txt
+# Link  https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/tracker.list.txt
+#
+# Updated: 28. October 2025
+#
+
+0.0.0.0  firebaseinappmessaging.googleapis.com
