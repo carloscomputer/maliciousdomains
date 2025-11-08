@@ -1,11 +1,11 @@
-### A general ad & tracking & phishing domain blocklist for pi-hole and adguard. (https://pi-hole.net/) ###
+### A general ad & tracking & phishing domain blocklist for pi-hole and AdGuard. (https://pi-hole.net/) ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
 # Author: carloscomputer
 #
 # Home: https://github.com/carloscomputer/maliciousdomains
 # Link for pi-hole: https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/maliciousdomains.list
 # 
-# Updated: 31. October 2024
+# Updated: 28. October 2025
 #
 #
 #BEGIN BLOCKLIST#
@@ -25,3 +25,6 @@
 0.0.0.0 gloghuayded.com
 0.0.0.0 sportdung.com
 0.0.0.0 pakketversandverfolgun.com
+0.0.0.0 angbotil4.elyejopets.com
+0.0.0.0 hanawana.thinkdifferentgt.com
+0.0.0.0 thinkdifferentgt.com
