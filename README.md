@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/carloscomputer/maliciousdomains/refs/heads/mai
 ```
 https://raw.githubusercontent.com/carloscomputer/maliciousdomains/refs/heads/main/apple.advertising.list.txt
 ```
-Other blocklists included
+Other blocklists included in cyberplussecurity_dns_block_list.txt
 ```
   -> "https://adaway.org/hosts.txt"
   -> "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
@@ -30,4 +30,6 @@ Other blocklists included
   -> "https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/tracker.list.txt"
   -> "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/share/facebook.txt"
   -> "https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/share/microsoft.txt"
+  -> "https://www.fanboy.co.nz/fanboy-antifacebook.txt"
+  -> "https://github.com/uBlockOrigin/uAssets/blob/master/filters/lan-block.txt"
 ```
