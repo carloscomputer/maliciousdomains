@@ -8,10 +8,6 @@ for Adguard
 ```
 https://raw.githubusercontent.com/carloscomputer/maliciousdomains/refs/heads/main/cyberplussecurity_dns_block_list.txt
 ```
-for pihole 
-```
-https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/cyberplussecurity_pihole_block_list.txt
-```
 ```
 https://raw.githubusercontent.com/carloscomputer/maliciousdomains/refs/heads/main/apple.advertising.list.txt
 ```
