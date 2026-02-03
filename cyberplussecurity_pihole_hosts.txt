@@ -1,2 +1,2 @@
 # CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS)
-# Stand: Tue Feb  3 06:00:00 CET 2026
+# Stand: Tue Feb  3 12:00:01 CET 2026
