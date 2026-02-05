@@ -1,2 +1,2 @@
 ! CyberPlusSecurity DNS Blockliste (AdGuard)
-! Stand: Thu Feb  5 00:00:00 CET 2026
+! Stand: Thu Feb  5 12:00:01 CET 2026
