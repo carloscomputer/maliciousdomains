@@ -61,4 +61,11 @@
 0.0.0.0 195.243.137.26 #telecom phishing, badnet           
 0.0.0.0 194.246.96.1   #telecom phishing, badnet       
 0.0.0.0 foodboxlidldeutsch28.de
-0.0.0.0 136.228.106.168 
+0.0.0.0 136.228.106.168
+0.0.0.0 logintransactioneasybank9.de           #EasyBank scam 
+0.0.0.0 ip-166-113-109-187.static.oecfiber.com #EasyBank scam 
+0.0.0.0 easyeasy.de                            #EasyBank scam 
+0.0.0.0 166.113.109.187                        #EasyBank scam 
+0.0.0.0 logintransactioneasyy8.interutiles.com #EasyBank scam 
+0.0.0.0 interutiles.com	                       #EasyBank scam 
+ 
