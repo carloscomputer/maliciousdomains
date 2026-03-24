@@ -36,11 +36,11 @@
 0.0.0.0 carkitadacgermany.com
 0.0.0.0 autoprokitdeutsc1.solucionaacc.com
 0.0.0.0 solucionaacc.com
-0.0.0.0 distribuidorarymgt.com #phising
-0.0.0.0 jahretelekomcards.de # phishing
-0.0.0.0 oecfiber.com #telecom phishing
+0.0.0.0 distribuidorarymgt.com #phishing
+0.0.0.0 jahretelekomcards.de   #phishing
+0.0.0.0 oecfiber.com   #telecom phishing
 0.0.0.0 umfragelidlpsro.de #phishing
-0.0.0.0 136.228.108.47 #telecom phishing,badnet 
+0.0.0.0 136.228.108.47 #telecom phishing, badnet 
 0.0.0.0 192.5.6.30     #telecom phishing, badnet    
 0.0.0.0 192.33.14.30   #telecom phishing, badnet
 0.0.0.0 192.26.92.30   #telecom phishing, badnet
@@ -70,3 +70,5 @@
 0.0.0.0 interutiles.com	                       #EasyBank scam 
 0.0.0.0 balancetrustwallet9.de    #TrustWallet phishing
 0.0.0.0 170.89.120.13             #TrustWallet phishing
+0.0.0.0 hostingdomainsstrato7.de  #Strato phishing
+0.0.0.0 158.62.130.50             
