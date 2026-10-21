@@ -1,5 +1,5 @@
 # CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS)
-# Stand: Mi. 21 Okt. 2026 10:57:04 CEST
+# Stand: Mi. 21 Okt. 2026 11:10:13 CEST
 0.0.0.0 -1080x140-
 0.0.0.0 -1080x140.
 0.0.0.0 -1080x180-
@@ -301834,7 +301834,6 @@
 0.0.0.0 appropriateyou.xyz
 0.0.0.0 appros.app
 0.0.0.0 appross.xyz
-0.0.0.0 approtonvpn.com.cn
 0.0.0.0 approulette.xyz
 0.0.0.0 approvalaccess.xyz
 0.0.0.0 approvalaidocs.xyz
@@ -763730,7 +763729,6 @@
 0.0.0.0 cn-prime-kaipingtiyu.sn.cn
 0.0.0.0 cn-pro-fifa.com
 0.0.0.0 cn-promontory.cloud
-0.0.0.0 cn-protonvpn.com.cn
 0.0.0.0 cn-qiedingjing-iqiyi.com.cn
 0.0.0.0 cn-qishui.com
 0.0.0.0 cn-qrlv-whatsapp.hl.cn
@@ -996991,7 +996989,6 @@
 0.0.0.0 downloadprice.xyz
 0.0.0.0 downloadprime.xyz
 0.0.0.0 downloadprint.xyz
-0.0.0.0 downloadprotonvpn.com
 0.0.0.0 downloadprovider.me
 0.0.0.0 downloadproxy.xyz
 0.0.0.0 downloadpunks.xyz
@@ -1075608,7 +1075605,6 @@
 0.0.0.0 en-polymarket.net
 0.0.0.0 en-pppoker.com
 0.0.0.0 en-proofpoint.com
-0.0.0.0 en-protonvpn.com
 0.0.0.0 en-proxy.com
 0.0.0.0 en-public.zapier.app
 0.0.0.0 en-pumpfun.com
@@ -1082855,7 +1082851,6 @@
 0.0.0.0 enpowerpalestras.com
 0.0.0.0 enpprrrprmss.xyz
 0.0.0.0 enprkrkstz.com
-0.0.0.0 enprotonvpn.com.cn
 0.0.0.0 enproxy.com
 0.0.0.0 enpulszcasino.com
 0.0.0.0 enpwguftxyrgv.online
@@ -2005726,7 +2005721,6 @@
 0.0.0.0 pcprogs.net
 0.0.0.0 pcprogs.ru
 0.0.0.0 pcprotectorhub.com
-0.0.0.0 pcprotonvpn.com.cn
 0.0.0.0 pcpsbdikueqle.online
 0.0.0.0 pcpservicehouse.com
 0.0.0.0 pcpt.bio
@@ -2110441,7 +2110435,6 @@
 0.0.0.0 protonvpn.ch
 0.0.0.0 protonvpn.cloud
 0.0.0.0 protonvpn.co.uk
-0.0.0.0 protonvpn.com
 0.0.0.0 protonvpn.download
 0.0.0.0 protonvpn.im
 0.0.0.0 protonvpn.net
@@ -2690446,7 +2690439,6 @@
 0.0.0.0 vpncattle.xyz
 0.0.0.0 vpncave.xyz
 0.0.0.0 vpncaves.xyz
-0.0.0.0 vpncdn.protonweb.com
 0.0.0.0 vpncellar.xyz
 0.0.0.0 vpncenter-tenta.securebrowser.com
 0.0.0.0 vpncenter.avg.securebrowser.com
@@ -2698151,7 +2698143,6 @@
 0.0.0.0 w2-faceit.org
 0.0.0.0 w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev
 0.0.0.0 w2-iscans.sbs
-0.0.0.0 w2-protonvpn.com
 0.0.0.0 w2-trust.org
 0.0.0.0 w2-web-whatsapp.com
 0.0.0.0 w2.chatgptsfit.com
@@ -2717989,7 +2717980,6 @@
 0.0.0.0 webprotector.co
 0.0.0.0 webprotectverify.com
 0.0.0.0 webprotocol.xyz
-0.0.0.0 webprotonvpn.com.cn
 0.0.0.0 webproud.xyz
 0.0.0.0 webprowale.com
 0.0.0.0 webproxy-advp.iad-apple.com

@@ -1,5 +1,5 @@
 ! CyberPlusSecurity DNS Blockliste (AdGuard)
-! Stand: Mi. 21 Okt. 2026 10:57:01 CEST
+! Stand: Mi. 21 Okt. 2026 11:10:10 CEST
 ||-1080x140-^
 ||-1080x140.^
 ||-1080x180-^
@@ -301834,7 +301834,6 @@
 ||appropriateyou.xyz^
 ||appros.app^
 ||appross.xyz^
-||approtonvpn.com.cn^
 ||approulette.xyz^
 ||approvalaccess.xyz^
 ||approvalaidocs.xyz^
@@ -763730,7 +763729,6 @@
 ||cn-prime-kaipingtiyu.sn.cn^
 ||cn-pro-fifa.com^
 ||cn-promontory.cloud^
-||cn-protonvpn.com.cn^
 ||cn-qiedingjing-iqiyi.com.cn^
 ||cn-qishui.com^
 ||cn-qrlv-whatsapp.hl.cn^
@@ -996991,7 +996989,6 @@
 ||downloadprice.xyz^
 ||downloadprime.xyz^
 ||downloadprint.xyz^
-||downloadprotonvpn.com^
 ||downloadprovider.me^
 ||downloadproxy.xyz^
 ||downloadpunks.xyz^
@@ -1075608,7 +1075605,6 @@
 ||en-polymarket.net^
 ||en-pppoker.com^
 ||en-proofpoint.com^
-||en-protonvpn.com^
 ||en-proxy.com^
 ||en-public.zapier.app^
 ||en-pumpfun.com^
@@ -1082855,7 +1082851,6 @@
 ||enpowerpalestras.com^
 ||enpprrrprmss.xyz^
 ||enprkrkstz.com^
-||enprotonvpn.com.cn^
 ||enproxy.com^
 ||enpulszcasino.com^
 ||enpwguftxyrgv.online^
@@ -2005726,7 +2005721,6 @@
 ||pcprogs.net^
 ||pcprogs.ru^
 ||pcprotectorhub.com^
-||pcprotonvpn.com.cn^
 ||pcpsbdikueqle.online^
 ||pcpservicehouse.com^
 ||pcpt.bio^
@@ -2110441,7 +2110435,6 @@
 ||protonvpn.ch^
 ||protonvpn.cloud^
 ||protonvpn.co.uk^
-||protonvpn.com^
 ||protonvpn.download^
 ||protonvpn.im^
 ||protonvpn.net^
@@ -2690446,7 +2690439,6 @@
 ||vpncattle.xyz^
 ||vpncave.xyz^
 ||vpncaves.xyz^
-||vpncdn.protonweb.com^
 ||vpncellar.xyz^
 ||vpncenter-tenta.securebrowser.com^
 ||vpncenter.avg.securebrowser.com^
@@ -2698151,7 +2698143,6 @@
 ||w2-faceit.org^
 ||w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev^
 ||w2-iscans.sbs^
-||w2-protonvpn.com^
 ||w2-trust.org^
 ||w2-web-whatsapp.com^
 ||w2.chatgptsfit.com^
@@ -2717989,7 +2717980,6 @@
 ||webprotector.co^
 ||webprotectverify.com^
 ||webprotocol.xyz^
-||webprotonvpn.com.cn^
 ||webproud.xyz^
 ||webprowale.com^
 ||webproxy-advp.iad-apple.com^
