@@ -1,5 +1,5 @@
 ! CyberPlusSecurity DNS Blockliste (AdGuard)
-! Stand: Sa. 24 Okt. 2026 02:44:32 CEST
+! Stand: Sa. 24 Okt. 2026 02:51:48 CEST
 ||-1080x140-^
 ||-1080x140.^
 ||-1080x180-^
@@ -177,7 +177,7 @@
 ||! Last modified: 16 Oct 2026 09:59 UTC^
 ||! Last modified: 2026-10-20T19:14:37.695Z^
 ||! Last modified: 2026-10-23T13:16:58.507Z^
-||! Last modified: 2026-10-23T22:15:12.973Z^
+||! Last modified: 2026-10-24T00:43:08.882Z^
 ||! Last modified: 21 Oct 2026 15:39 UTC^
 ||! Last modified: 22 Oct 2026 22:35 UTC^
 ||! Last modified: 23 Oct 2026 08:17 UTC^
@@ -236,7 +236,7 @@
 ||! Updated: 2021-09-19 08:57 UTC^
 ||! Version: 1.0.14.66^
 ||! Version: 1.0.29.93^
-||! Version: 1.0.83.97^
+||! Version: 1.0.83.98^
 ||! Version: 2026.1002.2146.20^
 ||! Version: 2026.1016.0959.51^
 ||! Version: 2026.1021.1539.31^
@@ -36791,6 +36791,7 @@
 ||1npost-shjpment.365417.com^
 ||1nq.casino^
 ||1nqrqa.de^
+||1nrgur4y43.com^
 ||1ns1rosb.de^
 ||1nsider.monster^
 ||1nsr.com^
@@ -172901,6 +172902,7 @@
 ||8m5f3k.com^
 ||8m777.vip^
 ||8m8mbets.com^
+||8m96jlrph4z8xgxy1ie.cfd^
 ||8mail.shop^
 ||8masaxsssaqrk.com^
 ||8mav260.com^
@@ -437162,6 +437164,7 @@
 ||bkpsdmkotametro.com^
 ||bkpub.ru^
 ||bkqax.top^
+||bkqfyjvgaowoa.website^
 ||bkqodnnsomnon.website^
 ||bkqus.nakednutrition.com^
 ||bkqykixrzrgwr.space^
@@ -932998,6 +933001,7 @@
 ||dret.newpasswordverification.com^
 ||drethonivalyse.com^
 ||drettia.com^
+||dreuihdvyukvl.site^
 ||drev.biz^
 ||drevalis.app^
 ||drevalomithyqa.com^
@@ -952083,6 +952087,7 @@
 ||dutojonuxexresources.click^
 ||dutorkkfputhl.online^
 ||dutorterraom.com^
+||dutpzliwv.com^
 ||dutraccumember-sec.weebly.com^
 ||dutravexa.click^
 ||dutrustinvest.com^
@@ -953509,6 +953514,7 @@
 ||dwz.casino^
 ||dwz1.icu^
 ||dwza.net^
+||dwzhvtvgknfjty.com^
 ||dwzhyllh.com^
 ||dwzllk.shop^
 ||dwzpfv.art^
@@ -982593,6 +982599,7 @@
 ||ehvxrxndjgzbb.online^
 ||ehw.casino^
 ||ehw.erste-hilfe-welt.de^
+||ehwdvntpzjgtu.online^
 ||ehwjabvdtzqge.website^
 ||ehwjeuwyq.com^
 ||ehwknx.smile-nurse.jp^
@@ -1047555,6 +1047562,7 @@
 ||eyvkuk3n6j737.ugnhc51np9pyhxzh3xjrf38.cyou^
 ||eyvpwdldzzrbk.space^
 ||eyvrobenk.com^
+||eyvsrixrzszkl.online^
 ||eyvvdn.icu^
 ||eyvzzkpenzjhhq.com^
 ||eyw.pics^
@@ -1120712,6 +1120720,7 @@
 ||formingnitta.cfd^
 ||formingoracle.xyz^
 ||formingstocks.xyz^
+||formingvaguish.com^
 ||formingvision.xyz^
 ||forminsurance.xyz^
 ||forminsure.xyz^
@@ -1203306,6 +1203315,7 @@
 ||geuaueya.click^
 ||geudalajaralisca.cc^
 ||geumhuzzy.com^
+||geunbtsaktcgp.online^
 ||geunom-eun-heug-yeomlyong-lordfilm.cfd^
 ||geuqd.us.nadinemerabi.com^
 ||geurimkcteyrq.space^
@@ -1255066,6 +1255076,7 @@
 ||griyagista.com^
 ||griza.homebase.co.uk^
 ||grizako.shop^
+||grizelromneyaisobase.cyou^
 ||griznya-lordfilm.ru^
 ||griznya-lordfilme.ru^
 ||grizrecruit.com^
@@ -1371042,6 +1371053,7 @@
 ||iexcom.de^
 ||iexdasqoqxx.com^
 ||iexechange.com^
+||iexfibdglnsxh.online^
 ||iexgekxdoqlcn.website^
 ||iexplore.co^
 ||iexplore.io^
@@ -1462722,6 +1462734,7 @@
 ||jucunavinca.com^
 ||jucupua.com^
 ||jucvixx-diplomsalediplomsalediplomsalediplomsa-diplomsale.click^
+||jucxhidpig.in^
 ||jucy-date.com^
 ||jucydate.com^
 ||judaicadh.com^
@@ -1518898,6 +1518911,7 @@
 ||lannawallet.com^
 ||lanndingi.com^
 ||lannermontre.qpon^
+||lannerstaurinicarree.qpon^
 ||lannhi.id.vn^
 ||lannit.com^
 ||lannitingfeng.xyz^
@@ -1774716,6 +1774730,7 @@
 ||n5j9x.com^
 ||n5k.me^
 ||n5ksrxp85tmdn47n.qwo231sdx.club^
+||n5ku61z6km.com^
 ||n5m8tx.com^
 ||n5n.relationsbuddy.com^
 ||n5oqa0qfguot2s7i6fhzkaz.qwo231sdx.club^
@@ -1836032,9 +1836047,11 @@
 ||nxydxafjirtwo.site^
 ||nxydz27pj.com^
 ||nxyiurrfj.net^
+||nxynjy2kej.com^
 ||nxypz.com^
 ||nxyrimqulo.top^
 ||nxyvuicivosqz.site^
+||nxyzabhy3.com^
 ||nxz4320b.weebly.com^
 ||nxzbru.stzusa.com^
 ||nxzjr.com^
@@ -1919251,6 +1919268,7 @@
 ||pdb.jnp.byzqtzwkhln.idy360.com^
 ||pdbaccountant.com^
 ||pdbcreativestudiostyle.shop^
+||pdbemjjzwqcws.online^
 ||pdbfqinwkt.com^
 ||pdbigv.com^
 ||pdbpdq.casa^
@@ -1937129,6 +1937147,7 @@
 ||photeau.shop^
 ||phothemtoups.com^
 ||photiniakyrorio.digital^
+||photismdotherbiggah.cfd^
 ||photo-0973.firebaseapp.com^
 ||photo-0973.web.app^
 ||photo-11642054.cfd^
@@ -1941033,6 +1941052,7 @@
 ||pilausamotion.com^
 ||pilautfile.com^
 ||pilavcity.xyz^
+||pilawscrewy.cfd^
 ||pilawsmeetly.qpon^
 ||pilbara-bondmere-ai.com^
 ||pilbarabondmere.com^
@@ -2051801,6 +2051821,7 @@
 ||qxsgambwwkoib.site^
 ||qxsiudir.com^
 ||qxsolution.com^
+||qxspkhpb.com^
 ||qxsw8.com^
 ||qxt.casino^
 ||qxtb.kidsself.club^
@@ -2109531,6 +2109552,7 @@
 ||ridgewalletshop.shop^
 ||ridgewalletstore.shop^
 ||ridgewalletwear.shop^
+||ridgewaterfall.com^
 ||ridgewavepartners.live^
 ||ridgewaygoods.eu^
 ||ridgewaykite.com^
@@ -2153726,6 +2153748,7 @@
 ||saklakgroup.com^
 ||saklalabs.xyz^
 ||sakncwtbggxik.site^
+||saknmqlonwuok.site^
 ||sako4dbisa.online^
 ||sakomako.top^
 ||sakongpoker.net^
@@ -2206459,6 +2206482,7 @@
 ||sfu.casino^
 ||sfucsoofs.eu.cc^
 ||sfuhsui.sbs^
+||sfumhmojnljka.online^
 ||sfunlkg4at3atksyy.qwo231sdx.club^
 ||sfuyou.com^
 ||sfv.fm^
@@ -2312549,6 +2312573,7 @@
 ||sqjeans.com^
 ||sqjfgy.com^
 ||sqjmk.cn^
+||sqkbgwxsytvzs.online^
 ||sqkeoe.pics^
 ||sqkfw.com^
 ||sqkgrjwmrzyau.site^
@@ -2339629,6 +2339654,7 @@
 ||stbartscasino.com^
 ||stbbrongyloidiases.info^
 ||stbbslotsgaming.com^
+||stbdktrfpkjsl.online^
 ||stbenedictscollege.org^
 ||stbet.com^
 ||stbet.onl^
@@ -2451745,6 +2451771,7 @@
 ||toastednm.com^
 ||toasteemendole.cfd^
 ||toaster.lol^
+||toaster22.com^
 ||toasterise.com^
 ||toasterunemployment.com^
 ||toastfashion.shop^
@@ -2515250,6 +2515277,7 @@
 ||uihyfiwhatsapp.com^
 ||uii.com.br^
 ||uii.io^
+||uiiomzoajkypl.space^
 ||uiiube.xyz^
 ||uiiuju.xyz^
 ||uiiuwuywhjjsns.top^
@@ -2653812,6 +2653840,7 @@
 ||wisi.online^
 ||wisig.org^
 ||wisingande.cyou^
+||wisjevyyjdjad.site^
 ||wiskaoane.com^
 ||wisketnyra.digital^
 ||wiskeybear.com^
@@ -2723860,6 +2723889,7 @@
 ||ywctedke.com^
 ||ywd.casino^
 ||ywdsupport.com^
+||ywdxitjjvljdj.site^
 ||ywdz.turkeyend.sbs^
 ||ywdzghlnqfugs.space^
 ||ywe.casino^
@@ -2733561,6 +2733591,7 @@
 ||zesty-lead.pro^
 ||zesty-moonbirds.nfts2.me^
 ||zesty-schedule.pro^
+||zestyalto.com^
 ||zestycrime.com^
 ||zestyfault.pro^
 ||zestyfood.shop^
@@ -2740259,6 +2740290,7 @@
 ||zmglobaltrust.com^
 ||zmgoogle.com^
 ||zmgrvt.cloud^
+||zmgzerfxzgkeq.online^
 ||zmhdcr.courses^
 ||zmhibanctbq.yi.org^
 ||zmhomeliving.shop^
@@ -2745567,6 +2745599,7 @@
 ||zqxuemmabklqq.online^
 ||zqxwig1t5.forum^
 ||zqy0jcfipu.com^
+||zqycdzdckeyuf.space^
 ||zqyikxx-diplomseychasdiplomseychasdiplomsey-diplomseychas.click^
 ||zqyknl.starsmith.biz^
 ||zqynfzv.cn^
