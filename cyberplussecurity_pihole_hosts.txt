@@ -1,5 +1,5 @@
 # CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS)
-# Stand: Do. 29 Okt. 2026 08:50:41 CET
+# Stand: Do. 29 Okt. 2026 11:12:01 CET
 0.0.0.0 -1080x140-
 0.0.0.0 -1080x140.
 0.0.0.0 -1080x180-
@@ -177,7 +177,7 @@
 0.0.0.0 ! Last modified: 16 Oct 2026 09:59 UTC
 0.0.0.0 ! Last modified: 2026-10-20T19:14:37.695Z
 0.0.0.0 ! Last modified: 2026-10-29T00:35:30.295Z
-0.0.0.0 ! Last modified: 2026-10-29T06:22:12.566Z
+0.0.0.0 ! Last modified: 2026-10-29T08:18:58.740Z
 0.0.0.0 ! Last modified: 28 Oct 2026 09:12 UTC
 0.0.0.0 ! Last modified: 28 Oct 2026 10:16 UTC
 0.0.0.0 ! Last modified: 28 Oct 2026 16:18 UTC
@@ -236,7 +236,7 @@
 0.0.0.0 ! Updated: 2021-09-19 08:57 UTC
 0.0.0.0 ! Version: 1.0.14.66
 0.0.0.0 ! Version: 1.0.30.4
-0.0.0.0 ! Version: 1.0.84.60
+0.0.0.0 ! Version: 1.0.84.61
 0.0.0.0 ! Version: 2026.1002.2146.20
 0.0.0.0 ! Version: 2026.1016.0959.51
 0.0.0.0 ! Version: 2026.1028.0912.03
@@ -192380,6 +192380,7 @@
 0.0.0.0 abidehodl.xyz
 0.0.0.0 abidehome.xyz
 0.0.0.0 abidelife.xyz
+0.0.0.0 abidersstaio.com
 0.0.0.0 abiderxora.digital
 0.0.0.0 abidesart.xyz
 0.0.0.0 abidesclub.xyz
@@ -571763,6 +571764,7 @@
 0.0.0.0 bwg.ro
 0.0.0.0 bwg123.online
 0.0.0.0 bwg5888.top
+0.0.0.0 bwgabpdgm.com
 0.0.0.0 bwgame55.com
 0.0.0.0 bwgame66.com
 0.0.0.0 bwgame99.com
@@ -936947,6 +936949,7 @@
 0.0.0.0 dnhnklfw.com
 0.0.0.0 dnhqia.link
 0.0.0.0 dnhrxt.kintetsu-re.co.jp
+0.0.0.0 dnhtilewhckzw.site
 0.0.0.0 dnhweqp.com
 0.0.0.0 dni-makeup.com
 0.0.0.0 dni.casino
@@ -976295,6 +976298,7 @@
 0.0.0.0 duitsland1.myshopify.com
 0.0.0.0 duitsmanpilotservice.com
 0.0.0.0 duitvector.digital
+0.0.0.0 duivzkwdukyli.site
 0.0.0.0 duiwai.baidu.com
 0.0.0.0 duiy.xyz
 0.0.0.0 dujanpeak.digital
@@ -1326776,6 +1326780,7 @@
 0.0.0.0 harempantsshop.shop
 0.0.0.0 haremspor.org
 0.0.0.0 haremsy.shop
+0.0.0.0 harenutreroofopsonia.cyou
 0.0.0.0 harepg.com
 0.0.0.0 haresmodus.com
 0.0.0.0 harezu.net
@@ -1362927,6 +1362932,7 @@
 0.0.0.0 hnfanbu.com
 0.0.0.0 hnfcfh.com
 0.0.0.0 hnfch.com
+0.0.0.0 hnfdfjusxjgzw.space
 0.0.0.0 hnffm22.com
 0.0.0.0 hnfnd.thehouseofnoa.com
 0.0.0.0 hnfpgm.com
@@ -1451172,6 +1451178,7 @@
 0.0.0.0 isetan-japan.shop
 0.0.0.0 isetanklmarket.shop
 0.0.0.0 isetanklselect.shop
+0.0.0.0 isetjaobdezlx.website
 0.0.0.0 iseuaa.olx.pl
 0.0.0.0 iseult-aplite.xyz
 0.0.0.0 isevmuhendislik.com
@@ -1478127,6 +1478134,7 @@
 0.0.0.0 jjpqqbxodpnwc.website
 0.0.0.0 jjpvr1co1gmpfwn1zkwx1h.cyou
 0.0.0.0 jjpyaj214.com
+0.0.0.0 jjqfexilaalwm.space
 0.0.0.0 jjqfsxx-checkibystrocheckibystrocheckibystro-checkibystro.click
 0.0.0.0 jjqiwr.cn
 0.0.0.0 jjqlzrxadgi.com
@@ -1525734,6 +1525742,7 @@
 0.0.0.0 khf7tg27w.com
 0.0.0.0 khfds.shop
 0.0.0.0 khffggfg.sbs
+0.0.0.0 khfiqscaoanhq.space
 0.0.0.0 khfiwx.sephora.com.br
 0.0.0.0 khfyas.bellybandit.com
 0.0.0.0 khfzod.cmsnl.com
@@ -1756761,6 +1756770,7 @@
 0.0.0.0 mjvb60t4g.com
 0.0.0.0 mjvgardeningservices.com
 0.0.0.0 mjvilleupdates.com
+0.0.0.0 mjvmtmaogdm.com
 0.0.0.0 mjvod.com
 0.0.0.0 mjvvklsjsdddh.space
 0.0.0.0 mjvxq.cc
@@ -1813943,6 +1813953,7 @@
 0.0.0.0 myceryma.shop
 0.0.0.0 mycfrw.net
 0.0.0.0 mycgklinens.shop
+0.0.0.0 mycgxpwvcrzvb.space
 0.0.0.0 mycha.shop
 0.0.0.0 mychadotea.shop
 0.0.0.0 mychainlink.shop
@@ -2095889,6 +2095900,7 @@
 0.0.0.0 quickclicks123.top
 0.0.0.0 quickclickzone789.top
 0.0.0.0 quickclothing.xyz
+0.0.0.0 quickclover.com
 0.0.0.0 quickcoaching.xyz
 0.0.0.0 quickcobra.xyz
 0.0.0.0 quickcoin.icu
@@ -2220817,6 +2220829,7 @@
 0.0.0.0 scoutengineer.xyz
 0.0.0.0 scoutentrance.xyz
 0.0.0.0 scouter.online
+0.0.0.0 scoutervayu.com
 0.0.0.0 scoutest.xyz
 0.0.0.0 scoutevidence.xyz
 0.0.0.0 scoutexplorer.xyz
@@ -2357384,6 +2357397,7 @@
 0.0.0.0 splendidservices.net
 0.0.0.0 splendidshift.xyz
 0.0.0.0 splendidstake.xyz
+0.0.0.0 splendidstone.com
 0.0.0.0 splendidstore.xyz
 0.0.0.0 splendidstyle.xyz
 0.0.0.0 splendidsugar.com
@@ -2584490,6 +2584504,7 @@
 0.0.0.0 unhappyfinance.xyz
 0.0.0.0 unhappytone.pro
 0.0.0.0 unhappyweakness.com
+0.0.0.0 unhaputterparking.cyou
 0.0.0.0 unhardbotsya.digital
 0.0.0.0 unhaspquartin.com
 0.0.0.0 unhatecleuks.com
@@ -2759574,6 +2759589,7 @@
 0.0.0.0 xjcaxizqgdgbv.online
 0.0.0.0 xjcdm.com
 0.0.0.0 xjchxbcccc.carrd.co
+0.0.0.0 xjcjiqkeznyjn.space
 0.0.0.0 xjcmfx.delivery
 0.0.0.0 xjcnrowjkwuae.space
 0.0.0.0 xjcq999.com

@@ -1,5 +1,5 @@
 ! CyberPlusSecurity DNS Blockliste (AdGuard)
-! Stand: Do. 29 Okt. 2026 08:50:38 CET
+! Stand: Do. 29 Okt. 2026 11:11:58 CET
 ||-1080x140-^
 ||-1080x140.^
 ||-1080x180-^
@@ -177,7 +177,7 @@
 ||! Last modified: 16 Oct 2026 09:59 UTC^
 ||! Last modified: 2026-10-20T19:14:37.695Z^
 ||! Last modified: 2026-10-29T00:35:30.295Z^
-||! Last modified: 2026-10-29T06:22:12.566Z^
+||! Last modified: 2026-10-29T08:18:58.740Z^
 ||! Last modified: 28 Oct 2026 09:12 UTC^
 ||! Last modified: 28 Oct 2026 10:16 UTC^
 ||! Last modified: 28 Oct 2026 16:18 UTC^
@@ -236,7 +236,7 @@
 ||! Updated: 2021-09-19 08:57 UTC^
 ||! Version: 1.0.14.66^
 ||! Version: 1.0.30.4^
-||! Version: 1.0.84.60^
+||! Version: 1.0.84.61^
 ||! Version: 2026.1002.2146.20^
 ||! Version: 2026.1016.0959.51^
 ||! Version: 2026.1028.0912.03^
@@ -192380,6 +192380,7 @@
 ||abidehodl.xyz^
 ||abidehome.xyz^
 ||abidelife.xyz^
+||abidersstaio.com^
 ||abiderxora.digital^
 ||abidesart.xyz^
 ||abidesclub.xyz^
@@ -571763,6 +571764,7 @@
 ||bwg.ro^
 ||bwg123.online^
 ||bwg5888.top^
+||bwgabpdgm.com^
 ||bwgame55.com^
 ||bwgame66.com^
 ||bwgame99.com^
@@ -936947,6 +936949,7 @@
 ||dnhnklfw.com^
 ||dnhqia.link^
 ||dnhrxt.kintetsu-re.co.jp^
+||dnhtilewhckzw.site^
 ||dnhweqp.com^
 ||dni-makeup.com^
 ||dni.casino^
@@ -976295,6 +976298,7 @@
 ||duitsland1.myshopify.com^
 ||duitsmanpilotservice.com^
 ||duitvector.digital^
+||duivzkwdukyli.site^
 ||duiwai.baidu.com^
 ||duiy.xyz^
 ||dujanpeak.digital^
@@ -1326776,6 +1326780,7 @@
 ||harempantsshop.shop^
 ||haremspor.org^
 ||haremsy.shop^
+||harenutreroofopsonia.cyou^
 ||harepg.com^
 ||haresmodus.com^
 ||harezu.net^
@@ -1362927,6 +1362932,7 @@
 ||hnfanbu.com^
 ||hnfcfh.com^
 ||hnfch.com^
+||hnfdfjusxjgzw.space^
 ||hnffm22.com^
 ||hnfnd.thehouseofnoa.com^
 ||hnfpgm.com^
@@ -1451172,6 +1451178,7 @@
 ||isetan-japan.shop^
 ||isetanklmarket.shop^
 ||isetanklselect.shop^
+||isetjaobdezlx.website^
 ||iseuaa.olx.pl^
 ||iseult-aplite.xyz^
 ||isevmuhendislik.com^
@@ -1478127,6 +1478134,7 @@
 ||jjpqqbxodpnwc.website^
 ||jjpvr1co1gmpfwn1zkwx1h.cyou^
 ||jjpyaj214.com^
+||jjqfexilaalwm.space^
 ||jjqfsxx-checkibystrocheckibystrocheckibystro-checkibystro.click^
 ||jjqiwr.cn^
 ||jjqlzrxadgi.com^
@@ -1525734,6 +1525742,7 @@
 ||khf7tg27w.com^
 ||khfds.shop^
 ||khffggfg.sbs^
+||khfiqscaoanhq.space^
 ||khfiwx.sephora.com.br^
 ||khfyas.bellybandit.com^
 ||khfzod.cmsnl.com^
@@ -1756761,6 +1756770,7 @@
 ||mjvb60t4g.com^
 ||mjvgardeningservices.com^
 ||mjvilleupdates.com^
+||mjvmtmaogdm.com^
 ||mjvod.com^
 ||mjvvklsjsdddh.space^
 ||mjvxq.cc^
@@ -1813943,6 +1813953,7 @@
 ||myceryma.shop^
 ||mycfrw.net^
 ||mycgklinens.shop^
+||mycgxpwvcrzvb.space^
 ||mycha.shop^
 ||mychadotea.shop^
 ||mychainlink.shop^
@@ -2095889,6 +2095900,7 @@
 ||quickclicks123.top^
 ||quickclickzone789.top^
 ||quickclothing.xyz^
+||quickclover.com^
 ||quickcoaching.xyz^
 ||quickcobra.xyz^
 ||quickcoin.icu^
@@ -2220817,6 +2220829,7 @@
 ||scoutengineer.xyz^
 ||scoutentrance.xyz^
 ||scouter.online^
+||scoutervayu.com^
 ||scoutest.xyz^
 ||scoutevidence.xyz^
 ||scoutexplorer.xyz^
@@ -2357384,6 +2357397,7 @@
 ||splendidservices.net^
 ||splendidshift.xyz^
 ||splendidstake.xyz^
+||splendidstone.com^
 ||splendidstore.xyz^
 ||splendidstyle.xyz^
 ||splendidsugar.com^
@@ -2584490,6 +2584504,7 @@
 ||unhappyfinance.xyz^
 ||unhappytone.pro^
 ||unhappyweakness.com^
+||unhaputterparking.cyou^
 ||unhardbotsya.digital^
 ||unhaspquartin.com^
 ||unhatecleuks.com^
@@ -2759574,6 +2759589,7 @@
 ||xjcaxizqgdgbv.online^
 ||xjcdm.com^
 ||xjchxbcccc.carrd.co^
+||xjcjiqkeznyjn.space^
 ||xjcmfx.delivery^
 ||xjcnrowjkwuae.space^
 ||xjcq999.com^
