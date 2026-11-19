@@ -3,7 +3,7 @@ Pihole malicious domains blocklist
 ``` 
 https://raw.githubusercontent.com/carloscomputer/maliciousdomains/main/maliciousdomains.list
 ```
-btw with lots of collected domains
+respectively with lots of collected domains
 for Adguard
 ```
 https://raw.githubusercontent.com/carloscomputer/maliciousdomains/refs/heads/main/cyberplussecurity_dns_block_list_part01.txt
