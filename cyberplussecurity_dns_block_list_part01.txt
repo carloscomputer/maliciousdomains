@@ -1,4 +1,4 @@
-! CyberPlusSecurity DNS Blockliste (AdGuard) – Stand: 2026-11-19 10:03:02
+! CyberPlusSecurity DNS Blockliste (AdGuard) – Stand: 2026-11-19 11:40:48
 ||0--4.com^
 ||0--d.com^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
@@ -324346,6 +324346,7 @@
 ||arvuni.click^
 ||arvuni.shop^
 ||arvwwu.stepstone.be^
+||arvxeaphrdcui.website^
 ||arvyx-fondoapp.com^
 ||arvyx-fund.com^
 ||arvyxfondo-engine.com^
@@ -383150,6 +383151,7 @@
 ||bdkuth.smartbuyglasses.co.uk^
 ||bdkx8casino.net^
 ||bdkxn.com^
+||bdkytzmnzgqtw.online^
 ||bdl.com.ua^
 ||bdl.xefyr.com^
 ||bdl03.com^
@@ -436493,6 +436495,7 @@
 ||biltonfarms.com^
 ||biltong2u.co.uk^
 ||biltongcraft.shop^
+||biltongmandala.com^
 ||biltonuglimited2.screenconnect.com^
 ||biltor.com^
 ||biltorgetab.com^
@@ -484556,6 +484559,7 @@
 ||bnbverify.app^
 ||bnbvf.com^
 ||bnbviews.com^
+||bnbvv.qqqs.com^
 ||bnbwalle.com^
 ||bnbwallet.app^
 ||bnbxcsdtrgrxcs.info^
@@ -520266,6 +520270,7 @@
 ||budzartixa.click^
 ||budzinga.dattap.com^
 ||budzislaw.parafia.net.pl^
+||budzlljornnna.site^
 ||bue-whatsapp.com^
 ||bue.com.tw^
 ||bue7u0dsjl.com^
@@ -654764,6 +654769,7 @@
 ||charecosystem.xyz^
 ||charecttorr.jp^
 ||chareddibpromotion.net^
+||charedpraecox.cfd^
 ||charee.shop^
 ||charegroup.xyz^
 ||charente.club^
@@ -841126,6 +841132,7 @@
 ||dhm8.com^
 ||dhmdja.trueprotein.com.au^
 ||dhmfrmhuscprz.space^
+||dhmjikiixeq.com^
 ||dhmq.imwonder.top^
 ||dhmqsa.info^
 ||dhmrelief.shop^
@@ -928805,6 +928812,7 @@
 ||ejepontspwiip.website^
 ||ejequeretano.com^
 ||ejest.com.br^
+||ejeuphnmhcddu.website^
 ||ejevika.com^
 ||ejewel.whizzo-tech.com^
 ||ejexgcirsdwvx.online^
@@ -938864,6 +938872,7 @@
 ||elystranivo.com^
 ||elystranova.sbs^
 ||elysvo.elysvo.com^
+||elytraharim.rest^
 ||elytranovoa.pro^
 ||elyucasino-ph.com^
 ||elyucasino.com^
@@ -1044533,6 +1044542,7 @@
 ||fonctionmaths.fr^
 ||fond-king.com^
 ||fond-might.com^
+||fond-obligation.pro^
 ||fond-rynowikta.org^
 ||fondagrave.com^
 ||fondaklabs.click^
@@ -1125840,6 +1125850,7 @@
 ||gjlions.org^
 ||gjljde.kathmandu.co.nz^
 ||gjlol.com^
+||gjlqvgcqofdpv.online^
 ||gjlyqe.help^
 ||gjman.com^
 ||gjmdfk.help^
@@ -1193080,6 +1193091,7 @@
 ||harlingtonpropertyservicesltd.org^
 ||harlinoutlet.com^
 ||harllanco.net^
+||harlmanjacktrove.cfd^
 ||harlotrylink.digital^
 ||harlovent.com^
 ||harlow-alliance-resolution.live^
@@ -1242864,6 +1242876,7 @@
 ||humbletech.xyz^
 ||humblewife.xyz^
 ||humblewoodcrafts.com^
+||humblieparians.rest^
 ||humbly-porcine.space^
 ||humblyman.com^
 ||humblytics.com^
@@ -1265218,6 +1265231,7 @@
 ||imi689.win^
 ||imiadcscompany.com^
 ||imiassociates.com^
+||imiaxrwnbtcza.site^
 ||imicampaign.io^
 ||imicconcepts.com^
 ||imiclick.org^
@@ -1341666,6 +1341680,7 @@
 ||jtjingfeng.com^
 ||jtjinstallations.com^
 ||jtjp2x5.mom^
+||jtjuuybgohcay.website^
 ||jtjyyd.com^
 ||jtk3omr3i.un5vrhwinqgl26.cyou^
 ||jtkfreestyle.net^
@@ -1341773,6 +1341788,7 @@
 ||jtstreeter.com^
 ||jtswqe.info^
 ||jtszc.homefreemusic.com^
+||jtszudkuecake.space^
 ||jttcd.com^
 ||jttcy.livesans.co.uk^
 ||jttecnologiaaplicada.com^
@@ -1499860,6 +1499876,7 @@
 ||maffgroup.com^
 ||maffia-casinos.com^
 ||maffiacasino.at^
+||maffledevour.rest^
 ||mafg.ro^
 ||mafgyu.sbs^
 ||mafia-2casino.com^
@@ -1653973,6 +1653990,7 @@
 ||ncoremeghivo.net^
 ||ncoresupport.com^
 ||ncorex.media^
+||ncorzwalzpnbg.website^
 ||ncourt.xyz^
 ||ncovb.xyz^
 ||ncovid19tester.com^
@@ -1654596,6 +1654614,7 @@
 ||ndzhm.fromrebel.ca^
 ||ndzlwlp.com^
 ||ndzorzxbsmyld.website^
+||ndzshjvntjduz.online^
 ||ndztl.iotabody.com^
 ||ndzwaqleog.fit^
 ||ndzwaqleog.work^
@@ -1753859,6 +1753878,7 @@
 ||oxdemir.shop^
 ||oxdo.xyz^
 ||oxdoopbmrwcbj.site^
+||oxdrtobmkwrgb.site^
 ||oxducycsdzrlm.site^
 ||oxduwil.com^
 ||oxdx7ahb.site^
@@ -1781730,6 +1781750,7 @@
 ||pecuweb.cz^
 ||pecvzs.info^
 ||pecyolteole.com^
+||ped.de^
 ||ped146qez.com^
 ||pedack.com^
 ||pedagangberada.com^
@@ -1783232,6 +1783253,7 @@
 ||pelsmarl828.serv00.net^
 ||pelsotin.buzz^
 ||pelstrafin.com^
+||peltaedepulse.click^
 ||peltanex.digital^
 ||pelterstay.be^
 ||peltharis.life^
@@ -1844154,6 +1844176,7 @@
 ||popovleather.live^
 ||popp-werkstatt.art^
 ||poppalarm.com^
+||poppamacks.rest^
 ||poppandabilling.shop^
 ||poppartycenter.com^
 ||poppastabour.com^
@@ -1897562,6 +1897585,7 @@
 ||qqpulsapetir.com^
 ||qqpuygzonbens.website^
 ||qqpwojgbqkvus.online^
+||qqpxfqwlkwybv.site^
 ||qqpyf.xyz^
 ||qqq.casino^
 ||qqq1227.com^
@@ -1905219,6 +1905243,7 @@
 ||quwa-paf.servehttp.com^
 ||quwan-tiyu.org^
 ||quwaxepixiumholdings.digital^
+||quwdgcvdknghs.site^
 ||quwelumoonanalytics.sbs^
 ||quwiex.com^
 ||quwsabdw.com^
@@ -1930776,6 +1930801,7 @@
 ||rechargng.shop^
 ||recharsemiarc.com^
 ||rechcymbalsgear.shop^
+||rechdsdsnustfredsdsdfdrt.de^
 ||recheataeris.digital^
 ||recheck-dec.com^
 ||recheck913259-booking.com^
@@ -2177533,28 +2177559,3 @@
 ||ss.popuparcade.co.uk^
 ||ss.porn-off.com^
 ||ss.portabliss.com^
-||ss.posadacasaturquesa.com^
-||ss.posadalagotera.com^
-||ss.posadaloskankises.com^
-||ss.poscatarse.com.br^
-||ss.poshejewelry.pl^
-||ss.postofficesocial.com^
-||ss.poulerikbech.dk^
-||ss.powecut.com^
-||ss.powerstill.com.br^
-||ss.powertimeboating.com^
-||ss.powy.energy^
-||ss.poyco.es^
-||ss.ppgrefinish.com^
-||ss.praksisjordemoder.dk^
-||ss.pravda.dk^
-||ss.prayers.academy^
-||ss.prayerscarves.com^
-||ss.preciinhobrasil.com.br^
-||ss.precisionairandplumbing.com^
-||ss.precisionwatches.shop^
-||ss.predeskbd.com^
-||ss.preforma.it^
-||ss.preplounge.com^
-||ss.presics.com.au^
-||ss.prestige-global.com^

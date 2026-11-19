@@ -1,4 +1,4 @@
-# CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS) – Stand: 2026-11-19 10:03:02
+# CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS) – Stand: 2026-11-19 11:40:48
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -324346,6 +324346,7 @@
 0.0.0.0 arvuni.click
 0.0.0.0 arvuni.shop
 0.0.0.0 arvwwu.stepstone.be
+0.0.0.0 arvxeaphrdcui.website
 0.0.0.0 arvyx-fondoapp.com
 0.0.0.0 arvyx-fund.com
 0.0.0.0 arvyxfondo-engine.com
@@ -383150,6 +383151,7 @@
 0.0.0.0 bdkuth.smartbuyglasses.co.uk
 0.0.0.0 bdkx8casino.net
 0.0.0.0 bdkxn.com
+0.0.0.0 bdkytzmnzgqtw.online
 0.0.0.0 bdl.com.ua
 0.0.0.0 bdl.xefyr.com
 0.0.0.0 bdl03.com
@@ -436493,6 +436495,7 @@
 0.0.0.0 biltonfarms.com
 0.0.0.0 biltong2u.co.uk
 0.0.0.0 biltongcraft.shop
+0.0.0.0 biltongmandala.com
 0.0.0.0 biltonuglimited2.screenconnect.com
 0.0.0.0 biltor.com
 0.0.0.0 biltorgetab.com
@@ -484556,6 +484559,7 @@
 0.0.0.0 bnbverify.app
 0.0.0.0 bnbvf.com
 0.0.0.0 bnbviews.com
+0.0.0.0 bnbvv.qqqs.com
 0.0.0.0 bnbwalle.com
 0.0.0.0 bnbwallet.app
 0.0.0.0 bnbxcsdtrgrxcs.info
@@ -520266,6 +520270,7 @@
 0.0.0.0 budzartixa.click
 0.0.0.0 budzinga.dattap.com
 0.0.0.0 budzislaw.parafia.net.pl
+0.0.0.0 budzlljornnna.site
 0.0.0.0 bue-whatsapp.com
 0.0.0.0 bue.com.tw
 0.0.0.0 bue7u0dsjl.com
@@ -654764,6 +654769,7 @@
 0.0.0.0 charecosystem.xyz
 0.0.0.0 charecttorr.jp
 0.0.0.0 chareddibpromotion.net
+0.0.0.0 charedpraecox.cfd
 0.0.0.0 charee.shop
 0.0.0.0 charegroup.xyz
 0.0.0.0 charente.club
@@ -841126,6 +841132,7 @@
 0.0.0.0 dhm8.com
 0.0.0.0 dhmdja.trueprotein.com.au
 0.0.0.0 dhmfrmhuscprz.space
+0.0.0.0 dhmjikiixeq.com
 0.0.0.0 dhmq.imwonder.top
 0.0.0.0 dhmqsa.info
 0.0.0.0 dhmrelief.shop
@@ -928805,6 +928812,7 @@
 0.0.0.0 ejepontspwiip.website
 0.0.0.0 ejequeretano.com
 0.0.0.0 ejest.com.br
+0.0.0.0 ejeuphnmhcddu.website
 0.0.0.0 ejevika.com
 0.0.0.0 ejewel.whizzo-tech.com
 0.0.0.0 ejexgcirsdwvx.online
@@ -938864,6 +938872,7 @@
 0.0.0.0 elystranivo.com
 0.0.0.0 elystranova.sbs
 0.0.0.0 elysvo.elysvo.com
+0.0.0.0 elytraharim.rest
 0.0.0.0 elytranovoa.pro
 0.0.0.0 elyucasino-ph.com
 0.0.0.0 elyucasino.com
@@ -1044533,6 +1044542,7 @@
 0.0.0.0 fonctionmaths.fr
 0.0.0.0 fond-king.com
 0.0.0.0 fond-might.com
+0.0.0.0 fond-obligation.pro
 0.0.0.0 fond-rynowikta.org
 0.0.0.0 fondagrave.com
 0.0.0.0 fondaklabs.click
@@ -1125840,6 +1125850,7 @@
 0.0.0.0 gjlions.org
 0.0.0.0 gjljde.kathmandu.co.nz
 0.0.0.0 gjlol.com
+0.0.0.0 gjlqvgcqofdpv.online
 0.0.0.0 gjlyqe.help
 0.0.0.0 gjman.com
 0.0.0.0 gjmdfk.help
@@ -1193080,6 +1193091,7 @@
 0.0.0.0 harlingtonpropertyservicesltd.org
 0.0.0.0 harlinoutlet.com
 0.0.0.0 harllanco.net
+0.0.0.0 harlmanjacktrove.cfd
 0.0.0.0 harlotrylink.digital
 0.0.0.0 harlovent.com
 0.0.0.0 harlow-alliance-resolution.live
@@ -1242864,6 +1242876,7 @@
 0.0.0.0 humbletech.xyz
 0.0.0.0 humblewife.xyz
 0.0.0.0 humblewoodcrafts.com
+0.0.0.0 humblieparians.rest
 0.0.0.0 humbly-porcine.space
 0.0.0.0 humblyman.com
 0.0.0.0 humblytics.com
@@ -1265218,6 +1265231,7 @@
 0.0.0.0 imi689.win
 0.0.0.0 imiadcscompany.com
 0.0.0.0 imiassociates.com
+0.0.0.0 imiaxrwnbtcza.site
 0.0.0.0 imicampaign.io
 0.0.0.0 imicconcepts.com
 0.0.0.0 imiclick.org
@@ -1341666,6 +1341680,7 @@
 0.0.0.0 jtjingfeng.com
 0.0.0.0 jtjinstallations.com
 0.0.0.0 jtjp2x5.mom
+0.0.0.0 jtjuuybgohcay.website
 0.0.0.0 jtjyyd.com
 0.0.0.0 jtk3omr3i.un5vrhwinqgl26.cyou
 0.0.0.0 jtkfreestyle.net
@@ -1341773,6 +1341788,7 @@
 0.0.0.0 jtstreeter.com
 0.0.0.0 jtswqe.info
 0.0.0.0 jtszc.homefreemusic.com
+0.0.0.0 jtszudkuecake.space
 0.0.0.0 jttcd.com
 0.0.0.0 jttcy.livesans.co.uk
 0.0.0.0 jttecnologiaaplicada.com
@@ -1499860,6 +1499876,7 @@
 0.0.0.0 maffgroup.com
 0.0.0.0 maffia-casinos.com
 0.0.0.0 maffiacasino.at
+0.0.0.0 maffledevour.rest
 0.0.0.0 mafg.ro
 0.0.0.0 mafgyu.sbs
 0.0.0.0 mafia-2casino.com
@@ -1653973,6 +1653990,7 @@
 0.0.0.0 ncoremeghivo.net
 0.0.0.0 ncoresupport.com
 0.0.0.0 ncorex.media
+0.0.0.0 ncorzwalzpnbg.website
 0.0.0.0 ncourt.xyz
 0.0.0.0 ncovb.xyz
 0.0.0.0 ncovid19tester.com
@@ -1654596,6 +1654614,7 @@
 0.0.0.0 ndzhm.fromrebel.ca
 0.0.0.0 ndzlwlp.com
 0.0.0.0 ndzorzxbsmyld.website
+0.0.0.0 ndzshjvntjduz.online
 0.0.0.0 ndztl.iotabody.com
 0.0.0.0 ndzwaqleog.fit
 0.0.0.0 ndzwaqleog.work
@@ -1753859,6 +1753878,7 @@
 0.0.0.0 oxdemir.shop
 0.0.0.0 oxdo.xyz
 0.0.0.0 oxdoopbmrwcbj.site
+0.0.0.0 oxdrtobmkwrgb.site
 0.0.0.0 oxducycsdzrlm.site
 0.0.0.0 oxduwil.com
 0.0.0.0 oxdx7ahb.site
@@ -1781730,6 +1781750,7 @@
 0.0.0.0 pecuweb.cz
 0.0.0.0 pecvzs.info
 0.0.0.0 pecyolteole.com
+0.0.0.0 ped.de
 0.0.0.0 ped146qez.com
 0.0.0.0 pedack.com
 0.0.0.0 pedagangberada.com
@@ -1783232,6 +1783253,7 @@
 0.0.0.0 pelsmarl828.serv00.net
 0.0.0.0 pelsotin.buzz
 0.0.0.0 pelstrafin.com
+0.0.0.0 peltaedepulse.click
 0.0.0.0 peltanex.digital
 0.0.0.0 pelterstay.be
 0.0.0.0 peltharis.life
@@ -1783614,25 +1783636,3 @@
 0.0.0.0 pendenciaregularizasituacao.org
 0.0.0.0 pendenciasativasme.org
 0.0.0.0 pendenciasdasmei.org
-0.0.0.0 pendencyivo.digital
-0.0.0.0 pendentecadastr.com
-0.0.0.0 pendenteclaro.com
-0.0.0.0 penderfundcapital.com
-0.0.0.0 penderisle.com
-0.0.0.0 penders-guestex.com
-0.0.0.0 pendervalue.com
-0.0.0.0 pendfl.click
-0.0.0.0 pendidikanpenting.xyz
-0.0.0.0 pendikescortkizlar.net
-0.0.0.0 pendikescortrandevu.xyz
-0.0.0.0 pendikklimaservisi.net.tr
-0.0.0.0 pendikliler.com
-0.0.0.0 pendikprime.com
-0.0.0.0 pendikroyal.com
-0.0.0.0 pendiktasimacilik.xyz
-0.0.0.0 pendile.net
-0.0.0.0 pending-chekin.com
-0.0.0.0 pending-coinbase.com
-0.0.0.0 pending-delivery.com
-0.0.0.0 pending-google.com
-0.0.0.0 pending-ledger.com

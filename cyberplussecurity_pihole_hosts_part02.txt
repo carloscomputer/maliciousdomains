@@ -1,4 +1,26 @@
-# CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS) – Stand: 2026-11-19 10:03:02
+# CyberPlusSecurity DNS Blockliste (Pi-hole HOSTS) – Stand: 2026-11-19 11:40:48
+0.0.0.0 pendencyivo.digital
+0.0.0.0 pendentecadastr.com
+0.0.0.0 pendenteclaro.com
+0.0.0.0 penderfundcapital.com
+0.0.0.0 penderisle.com
+0.0.0.0 penders-guestex.com
+0.0.0.0 pendervalue.com
+0.0.0.0 pendfl.click
+0.0.0.0 pendidikanpenting.xyz
+0.0.0.0 pendikescortkizlar.net
+0.0.0.0 pendikescortrandevu.xyz
+0.0.0.0 pendikklimaservisi.net.tr
+0.0.0.0 pendikliler.com
+0.0.0.0 pendikprime.com
+0.0.0.0 pendikroyal.com
+0.0.0.0 pendiktasimacilik.xyz
+0.0.0.0 pendile.net
+0.0.0.0 pending-chekin.com
+0.0.0.0 pending-coinbase.com
+0.0.0.0 pending-delivery.com
+0.0.0.0 pending-google.com
+0.0.0.0 pending-ledger.com
 0.0.0.0 pending-ledger.eu
 0.0.0.0 pending-token-review.com
 0.0.0.0 pending-verification.com
@@ -60517,6 +60539,7 @@
 0.0.0.0 popovleather.live
 0.0.0.0 popp-werkstatt.art
 0.0.0.0 poppalarm.com
+0.0.0.0 poppamacks.rest
 0.0.0.0 poppandabilling.shop
 0.0.0.0 poppartycenter.com
 0.0.0.0 poppastabour.com
@@ -113925,6 +113948,7 @@
 0.0.0.0 qqpulsapetir.com
 0.0.0.0 qqpuygzonbens.website
 0.0.0.0 qqpwojgbqkvus.online
+0.0.0.0 qqpxfqwlkwybv.site
 0.0.0.0 qqpyf.xyz
 0.0.0.0 qqq.casino
 0.0.0.0 qqq1227.com
@@ -121582,6 +121606,7 @@
 0.0.0.0 quwa-paf.servehttp.com
 0.0.0.0 quwan-tiyu.org
 0.0.0.0 quwaxepixiumholdings.digital
+0.0.0.0 quwdgcvdknghs.site
 0.0.0.0 quwelumoonanalytics.sbs
 0.0.0.0 quwiex.com
 0.0.0.0 quwsabdw.com
@@ -147139,6 +147164,7 @@
 0.0.0.0 rechargng.shop
 0.0.0.0 recharsemiarc.com
 0.0.0.0 rechcymbalsgear.shop
+0.0.0.0 rechdsdsnustfredsdsdfdrt.de
 0.0.0.0 recheataeris.digital
 0.0.0.0 recheck-dec.com
 0.0.0.0 recheck913259-booking.com
@@ -476975,6 +477001,7 @@
 0.0.0.0 tatomy.com
 0.0.0.0 taton.tattoo
 0.0.0.0 tatonka-de.com
+0.0.0.0 tatoosbene.cfd
 0.0.0.0 tatopoker.com
 0.0.0.0 tatort-betrieb.de
 0.0.0.0 tatorunipure.com
@@ -637171,6 +637198,7 @@
 0.0.0.0 vbcvbqeqe.org
 0.0.0.0 vbcxn.top
 0.0.0.0 vbcyjhxqcfanz.site
+0.0.0.0 vbdaxkfhooubt.site
 0.0.0.0 vbdozzrdqluca.store
 0.0.0.0 vbe-sbetsports.com.cn
 0.0.0.0 vbe.voyage-prive.be
@@ -766369,6 +766397,7 @@
 0.0.0.0 xrkbhl2cp.com
 0.0.0.0 xrkcnx.cn
 0.0.0.0 xrl.casino
+0.0.0.0 xrlaefykwksxh.space
 0.0.0.0 xrldobjttlwsixfyxote.com
 0.0.0.0 xrlfbs-whatapp.hl.cn
 0.0.0.0 xrlinks.com

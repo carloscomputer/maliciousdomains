@@ -1,4 +1,29 @@
-! CyberPlusSecurity DNS Blockliste (AdGuard) – Stand: 2026-11-19 10:03:02
+! CyberPlusSecurity DNS Blockliste (AdGuard) – Stand: 2026-11-19 11:40:48
+||ss.posadacasaturquesa.com^
+||ss.posadalagotera.com^
+||ss.posadaloskankises.com^
+||ss.poscatarse.com.br^
+||ss.poshejewelry.pl^
+||ss.postofficesocial.com^
+||ss.poulerikbech.dk^
+||ss.powecut.com^
+||ss.powerstill.com.br^
+||ss.powertimeboating.com^
+||ss.powy.energy^
+||ss.poyco.es^
+||ss.ppgrefinish.com^
+||ss.praksisjordemoder.dk^
+||ss.pravda.dk^
+||ss.prayers.academy^
+||ss.prayerscarves.com^
+||ss.preciinhobrasil.com.br^
+||ss.precisionairandplumbing.com^
+||ss.precisionwatches.shop^
+||ss.predeskbd.com^
+||ss.preforma.it^
+||ss.preplounge.com^
+||ss.presics.com.au^
+||ss.prestige-global.com^
 ||ss.prettystraps.com^
 ||ss.priess-dh.dk^
 ||ss.priess-web.com^
@@ -83053,6 +83078,7 @@
 ||tatomy.com^
 ||taton.tattoo^
 ||tatonka-de.com^
+||tatoosbene.cfd^
 ||tatopoker.com^
 ||tatort-betrieb.de^
 ||tatorunipure.com^
@@ -243249,6 +243275,7 @@
 ||vbcvbqeqe.org^
 ||vbcxn.top^
 ||vbcyjhxqcfanz.site^
+||vbdaxkfhooubt.site^
 ||vbdozzrdqluca.store^
 ||vbe-sbetsports.com.cn^
 ||vbe.voyage-prive.be^
@@ -372447,6 +372474,7 @@
 ||xrkbhl2cp.com^
 ||xrkcnx.cn^
 ||xrl.casino^
+||xrlaefykwksxh.space^
 ||xrldobjttlwsixfyxote.com^
 ||xrlfbs-whatapp.hl.cn^
 ||xrlinks.com^
